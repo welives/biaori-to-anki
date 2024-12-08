@@ -1,6 +1,6 @@
 ## 用法
 
-先去把[标日的Anki卡牌](https://zhuanlan.zhihu.com/p/58139619)全部下载下来, 然后导出进[Anki](https://apps.ankiweb.net/)
+先去把[标日的Anki卡牌](https://zhuanlan.zhihu.com/p/58139619)全部下载下来, 然后导入进[Anki](https://apps.ankiweb.net/)
 
 因为原作者的这套练习卡牌没有做填空练习,我给卡牌加了个填空字段后导出
 
